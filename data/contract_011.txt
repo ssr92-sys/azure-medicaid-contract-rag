@@ -1,0 +1,25 @@
+VENDOR SERVICES AGREEMENT
+This Vendor Services Agreement ("Agreement") is entered into as of August 1, 2025 by and between BayPoint Health Plan, Inc. ("Health Plan") and Medora Solutions, LLC ("Vendor").
+Recitals: Health Plan desires to procure certain administrative and clinical support services for its Medicare Advantage line of business, and Vendor represents it has expertise to provide such services.
+1. Services: Vendor will provide the services described in the attached Statement of Work, including but not limited to claims processing support, care coordination, and reporting for Medicare Advantage members.
+2. Term: The Effective Date is August 1, 2025 and the Initial Term shall end on July 31, 2026.
+This Agreement does NOT automatically renew.
+3. Payment: Health Plan shall pay Vendor in accordance with the fee schedule; all invoices are due Net 30 from receipt unless otherwise mutually agreed in writing.
+4. Termination: Either party may terminate for convenience upon ninety (90) days' prior written notice to the other party.
+Either party may terminate for material breach if the breaching party fails to cure within thirty (30) days after written notice.
+5. Confidentiality: Each party shall maintain as confidential all proprietary, member, and plan information received from the other and shall use such information solely for performance under this Agreement.
+6. Data Security and HIPAA: Vendor shall implement and maintain administrative, physical and technical safeguards to protect PHI and comply with applicable federal and state privacy laws.
+7. Indemnification: Vendor shall indemnify, defend, and hold harmless Health Plan and its officers from claims arising out of Vendor's negligence, willful misconduct, or failure to comply with applicable laws.
+Health Plan shall indemnify Vendor for claims arising from Health Plan's gross negligence or intentional misconduct.
+8. Insurance: Vendor shall maintain commercial general liability, professional liability/errors and omissions, and cyber liability insurance with limits reasonably acceptable to Health Plan and shall provide certificates upon request.
+9. Audit Rights: Health Plan shall have the right, during normal business hours and upon reasonable notice, to audit Vendor's records and systems pertinent to the services and charging practices.
+10. Compliance: Vendor shall comply with all federal and state laws applicable to Medicare Advantage, CMS requirements, and Health Plan policies.
+11. Notices: All notices under this Agreement shall be in writing and delivered to the parties at their respective addresses set forth below or as later designated in writing.
+Notices shall be effective upon delivery by hand, overnight courier, or three (3) days after deposit in the U.S. mail, postage prepaid.
+12. Assignment and Subcontracting: Vendor may not assign or subcontract material obligations without Health Plan's prior written consent, which will not be unreasonably withheld.
+13. Independent Contractor: Vendor is an independent contractor and nothing in this Agreement creates an employer-employee, partnership, or joint venture relationship.
+14. Limitation of Liability: Except for indemnification obligations and willful misconduct, neither party's liability shall exceed the fees paid by Health Plan to Vendor in the twelve months preceding the claim.
+15. Survival: Provisions concerning confidentiality, indemnification, insurance, audit rights and limitation of liability shall survive expiration or termination of this Agreement.
+16. Governing Law: This Agreement shall be governed by and construed in accordance with the laws of the State of Texas, without regard to conflict of law principles.
+17. Entire Agreement: This document, together with any exhibits or Statements of Work, constitutes the entire agreement between the parties and supersedes all prior discussions.
+IN WITNESS WHEREOF, the parties have executed this Agreement through their duly authorized representatives as of the Effective Date.

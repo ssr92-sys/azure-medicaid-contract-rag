@@ -1,0 +1,25 @@
+VENDOR SERVICES AGREEMENT
+This Vendor Services Agreement ("Agreement") is entered into by and between GulfHealth Plan, Inc. ("Health Plan") and Suncoast Care Services, LLC ("Vendor").
+Effective date: January 10, 2026.
+Scope: Vendor will provide services as set forth in mutually agreed Statements of Work covering the Health Plan's lines of business: Commercial.
+Term: The initial term of this Agreement commences on the Effective Date and ends on January 9, 2027.
+This Agreement does NOT automatically renew.
+Payment: Fees shall be invoiced in accordance with the applicable Statement of Work and payments shall be due Net 45 from receipt of a correct invoice.
+Termination for convenience: Either party may terminate this Agreement or any Statement of Work for convenience upon 30 days written notice to the other party.
+Termination for cause: Either party may terminate immediately for material breach if the breaching party fails to cure within thirty (30) days after receiving written notice of such breach.
+Confidentiality: Each party shall protect the other party's Confidential Information and shall not disclose or use such information except as necessary to perform under this Agreement.
+Data protection: Vendor shall implement administrative, physical and technical safeguards to protect member data and shall comply with applicable privacy laws, including where applicable HIPAA.
+Indemnification: Vendor shall indemnify, defend and hold harmless Health Plan and its officers, directors and employees from and against claims, losses and liabilities arising from Vendor's negligence or willful misconduct.
+Insurance: Vendor shall maintain commercially reasonable insurance, including professional liability and general liability coverage, and shall provide certificates upon request.
+Audit rights: Health Plan or its designees shall have the right, upon reasonable notice, to audit Vendor's records related to services, payments and compliance during normal business hours.
+Records retention: Vendor shall retain and make available records related to services and billing for a minimum of seven years after termination or longer if required by law.
+Notices: All notices shall be in writing and delivered by certified mail, overnight courier, or electronic delivery with confirmation to the addresses provided in the applicable Statement of Work.
+Assignment: Neither party may assign this Agreement without the prior written consent of the other party, except to a successor in interest by merger or sale of substantially all assets.
+Limitation of liability: Except for indemnification obligations and willful misconduct, neither party shall be liable for consequential, incidental or punitive damages.
+Compliance: Vendor represents that it will comply with all applicable federal and state laws, regulations and Health Plan policies in performing services.
+Independent contractor: Vendor is an independent contractor and not an employee, partner or agent of Health Plan; Vendor is solely responsible for its employees and subcontractors.
+Severability: If any provision is held invalid, the remainder shall remain in full force and effect without the invalid provision.
+Governing law: This Agreement shall be governed by and construed in accordance with the laws of the State of California, without regard to conflict of law principles.
+Amendment: This Agreement may be amended only by a written instrument signed by authorized representatives of both parties.
+Entire agreement: This Agreement, including all Statements of Work and exhibits, constitutes the entire agreement between the parties with respect to the subject matter hereof.
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the Effective Date by their duly authorized representatives.

@@ -1,0 +1,25 @@
+Vendor Services Agreement
+This Vendor Services Agreement ("Agreement") is entered into by and between Hudson Valley Care Plan, Inc. ("Health Plan") and Aurelia Health Services, LLC ("Vendor").
+Effective Date: February 2, 2026.
+Initial Term: The Initial Term of this Agreement shall commence on the Effective Date and shall end on February 1, 2028.
+Lines of Business Covered: Services under this Agreement shall cover Medicare Advantage and Medicaid members and related program activities.
+Services: Vendor shall provide services as set forth in Exhibit A (the "Services"), including care coordination, utilization management support and related administrative functions.
+Fees and Payment: Health Plan shall pay Vendor in accordance with the Fee Schedule in Exhibit B; all invoices shall be paid Net 45 from receipt of an undisputed invoice.
+No Automatic Renewal: This Agreement does NOT automatically renew and shall expire at the end of the Initial Term unless extended by a written amendment signed by both parties.
+Termination for Convenience: Either party may terminate this Agreement for convenience upon ninety (90) days' prior written notice to the other party.
+Termination for Cause: Either party may terminate immediately for material breach if such breach is not cured within thirty (30) days following written notice.
+Confidentiality: Each party shall maintain the confidentiality of the other's confidential information, use it only for purposes of performing under this Agreement, and protect it with at least the same degree of care it uses for its own confidential information.
+HIPAA and Privacy: Vendor shall comply with all applicable federal and state privacy laws, including HIPAA and related regulations, in handling Protected Health Information.
+Indemnification: Vendor shall indemnify, defend and hold harmless Health Plan from and against any third-party claims arising out of Vendor's negligent acts or omissions or willful misconduct in performance of the Services, and Health Plan shall indemnify Vendor for claims arising from Health Plan's negligence.
+Insurance: Vendor shall maintain, at its expense, commercial general liability, professional liability, workers' compensation and cyber/privacy insurance in limits customary in the health services industry and shall provide certificates of insurance upon request.
+Audit Rights: Health Plan shall have the right to audit Vendor's records and operations related to the Services, upon reasonable notice and during normal business hours, to verify compliance and proper invoicing.
+Records Retention: Vendor shall retain records relating to the Services and billing for a minimum of six (6) years and shall make them available to Health Plan and relevant regulators upon request.
+Compliance with Laws: Each party shall perform its obligations in compliance with all applicable federal and state laws, rules and regulations, including those applicable to Medicare Advantage and Medicaid.
+Intellectual Property: Unless otherwise agreed, each party retains ownership of its preexisting intellectual property and grants the other a limited license to use materials solely to perform the Services.
+Limitation of Liability: Except for liability resulting from gross negligence, willful misconduct or breach of confidentiality or indemnification obligations, neither party shall be liable to the other for consequential, incidental or punitive damages.
+Dispute Resolution: The parties shall attempt in good faith to resolve disputes through escalation between senior representatives, and if unresolved, through mediation prior to litigation.
+Governing Law: This Agreement shall be governed by and construed in accordance with the laws of the State of New York, without regard to its conflict of law principles.
+Notices: All notices shall be in writing and delivered to the addresses set forth in Exhibit C, by certified mail, overnight courier or email with confirmation, and shall be effective upon receipt.
+Assignment: Neither party may assign this Agreement without the prior written consent of the other, except that Health Plan may assign to an affiliate or successor in interest.
+Independent Contractors: The parties are independent contractors, and nothing in this Agreement creates a joint venture, partnership, or employment relationship.
+Entire Agreement: This Agreement, including its exhibits, constitutes the entire agreement between Hudson Valley Care Plan, Inc. and Aurelia Health Services, LLC and supersedes all prior negotiations and understandings.

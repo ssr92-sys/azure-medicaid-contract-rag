@@ -1,0 +1,25 @@
+Vendor Services Agreement
+This Vendor Services Agreement ("Agreement") is made and entered into effective as of July 22, 2026 by and between Clearwater Health Plan, Inc. ("Health Plan") and Medora Solutions, LLC ("Vendor").
+Scope: Vendor shall provide services to the Health Plan solely with respect to the Medicaid line of business as further described in Exhibit A.
+Term: The initial term of this Agreement shall commence on July 22, 2026 and shall end on July 21, 2027.
+The parties expressly agree that this Agreement does NOT automatically renew.
+Fees and Payment: Health Plan shall pay Vendor in accordance with the rates set forth in Exhibit B; all invoices shall be paid Net 60 from receipt of a proper invoice.
+Taxes: Each party is responsible for its own taxes unless otherwise required by law.
+Termination for Convenience: Either party may terminate this Agreement for convenience upon thirty (30) days' prior written notice to the other party.
+Termination for Cause: Either party may terminate for material breach if the breaching party fails to cure within thirty (30) days after receipt of written notice.
+Confidentiality: Each party shall protect Confidential Information of the other using at least the same degree of care it uses to protect its own confidential information, and shall not disclose such information except as permitted herein.
+Data Security and HIPAA: Vendor shall maintain administrative, technical, and physical safeguards to protect PHI and comply with applicable federal and state laws, including HIPAA.
+Indemnification: Vendor shall defend, indemnify and hold harmless Health Plan and its affiliates, officers and employees from claims arising out of Vendor's negligent performance or willful misconduct; Health Plan shall indemnify Vendor for claims arising from Health Plan's negligence.
+Insurance: Vendor shall maintain commercial general liability, professional liability and cyber liability insurance in commercially reasonable limits and provide certificates of insurance upon request.
+Audit Rights: Health Plan reserves the right to audit Vendor's records and systems relevant to services and charges, with reasonable notice and during normal business hours.
+Records Retention: Vendor shall retain records related to services and members for the period required by law and shall make them available to Health Plan and regulators upon request.
+Subcontracting: Vendor may subcontract work only with Health Plan's prior written consent, and Vendor remains responsible for subcontractor performance.
+Independent Contractor: The parties are independent contractors; nothing in this Agreement creates a partnership, joint venture or employment relationship.
+Notices: All notices shall be in writing and sent to the addresses set forth below (or to such other address as a party may designate) and shall be effective upon receipt.
+Assignment: Neither party may assign this Agreement without the prior written consent of the other, except to a successor in interest to substantially all assets.
+Limitation of Liability: Except for indemnification obligations and breaches of confidentiality or data security, liability of each party shall be limited to direct damages not to exceed the fees paid in the prior twelve months.
+Compliance: Vendor shall comply with all applicable federal and state laws and regulations applicable to the Medicaid line of business.
+Survival: Provisions regarding confidentiality, indemnification, records retention, audit rights and limitation of liability shall survive termination or expiration of this Agreement.
+Governing Law: This Agreement shall be governed by and construed in accordance with the laws of the State of Florida without regard to conflict of law principles.
+Entire Agreement: This Agreement, together with Exhibits, constitutes the entire agreement between the parties and supersedes all prior agreements.
+Execution: IN WITNESS WHEREOF, the parties have caused this Agreement to be executed by their authorized representatives as of the date first written above.
