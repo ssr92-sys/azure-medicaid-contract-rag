@@ -4,6 +4,7 @@ anyio==4.15.1
 applicationinsights==0.11.10
 argcomplete==3.5.3
 azure-ai-agents==1.1.0
+azure-ai-documentintelligence==1.0.2
 azure-ai-projects==1.0.0
 azure-appconfiguration==1.8.1
 azure-batch==15.0.0b1
@@ -88,6 +89,7 @@ azure-mgmt-synapse==2.1.0b5
 azure-mgmt-trafficmanager==1.0.0
 azure-mgmt-web==11.0.0
 azure-monitor-query==1.2.0
+azure-search-documents==12.0.0
 azure-storage-blob==12.29.0b1
 azure-storage-common==1.4.2
 azure-storage-file-datalake==12.24.0b1
@@ -140,6 +142,7 @@ Pygments==2.21.0
 PyJWT==2.14.0
 PyNaCl==1.6.2
 pyOpenSSL==26.2.0
+pypdf==6.18.1
 PySocks==1.7.1
 python-dateutil==2.9.0.post0
 python-dotenv==1.2.3
