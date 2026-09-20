@@ -11,6 +11,7 @@ questions about it with citations traceable to a specific clause and page.
 
 ## Pipeline
 
+```
 PDF → Document Intelligence (layout model, markdown output)
     → structure-aware chunking with section hierarchy + page provenance
     → embeddings (text-embedding-3-small)
@@ -18,7 +19,7 @@ PDF → Document Intelligence (layout model, markdown output)
     → hybrid retrieval (vector + BM25, RRF fusion, metadata filtering)
     → grounded answer with citations
     → automated citation verification
-
+```
 
 ## Notable design decisions
 
