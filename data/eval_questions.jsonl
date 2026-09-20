@@ -1,0 +1,5 @@
+{"question": "When does this agreement terminate?", "expected_chunks": ["md2026-0040"], "main_only": true}
+{"question": "What is the stop-loss limit per enrollee?", "expected_chunks": ["md2026-0019"], "main_only": true}
+{"question": "What is the minimum medical loss ratio?", "expected_chunks": ["md2026-0021"], "main_only": true}
+{"question": "How much notice must the MCO give to terminate?", "expected_chunks": ["md2026-0040"], "main_only": true}
+{"question": "What percentage of capitation funds the Population Health Incentive Program?", "expected_chunks": ["md2026-0019"], "main_only": true}
